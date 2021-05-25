@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fall-2021-interview-frontend/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/fall-2021-interview-frontend/static/js/main.1c6630ce.chunk.js",
+    "main.js.map": "/fall-2021-interview-frontend/static/js/main.1c6630ce.chunk.js.map",
+    "runtime-main.js": "/fall-2021-interview-frontend/static/js/runtime-main.c1441390.js",
+    "runtime-main.js.map": "/fall-2021-interview-frontend/static/js/runtime-main.c1441390.js.map",
+    "static/js/2.48f6d83f.chunk.js": "/fall-2021-interview-frontend/static/js/2.48f6d83f.chunk.js",
+    "static/js/2.48f6d83f.chunk.js.map": "/fall-2021-interview-frontend/static/js/2.48f6d83f.chunk.js.map",
+    "static/js/3.66b3fabd.chunk.js": "/fall-2021-interview-frontend/static/js/3.66b3fabd.chunk.js",
+    "static/js/3.66b3fabd.chunk.js.map": "/fall-2021-interview-frontend/static/js/3.66b3fabd.chunk.js.map",
+    "index.html": "/fall-2021-interview-frontend/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/fall-2021-interview-frontend/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.48f6d83f.chunk.js.LICENSE.txt": "/fall-2021-interview-frontend/static/js/2.48f6d83f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1441390.js",
+    "static/js/2.48f6d83f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1c6630ce.chunk.js"
+  ]
+}
